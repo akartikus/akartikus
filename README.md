@@ -1,0 +1,21 @@
+# Hi, I'm Sitraka 👋
+
+**Software engineer based in France.** I build web applications, developer tools and automation, from idea to production, with a focus on clean architecture and reliability.
+
+Currently exploring: Rust, Svelte and game development.
+
+## Selected projects
+
+- **[Pistouil](https://github.com/akartikus/pistouil)**: solo detective game where mysteries are generated from real OpenStreetMap places.
+- **[Daily Bible](https://github.com/akartikus/daily-bible)**: Chrome extension that shows a Bible verse at every break (Svelte 5, TypeScript, Manifest V3).
+- **[sqlx-axum](https://github.com/akartikus/sqlx-axum)**: minimal Rust REST API (Axum, SQLx, PostgreSQL), written as a learning guide.
+- **Keeps**: [LIEN À AJOUTER] browser extension to save and restore complete workspaces.
+- **[Sharizzy](https://github.com/akartikus/sharizzy)**: [UNE PHRASE À CONFIRMER, par exemple liste de courses collaborative].
+
+## Stack
+
+Rust · TypeScript · Svelte · Python
+
+## Links
+
+[Website](https://sitraka.dev) · [All repositories](https://github.com/akartikus?tab=repositories)
