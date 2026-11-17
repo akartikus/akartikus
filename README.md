@@ -1,6 +1,6 @@
 # Hi, I'm Sitraka 👋
 
-**Software engineer based in France.** I build web applications, developer tools and automation, from idea to production, with a focus on clean architecture and reliability.
+I build web applications, developer tools and automation, from idea to production, with a focus on clean architecture and reliability.
 
 Currently exploring: Rust, Svelte and game development.
 
